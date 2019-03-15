@@ -22,6 +22,9 @@
 #include <ktshlib.h>
 #include <kttimeddb.h>
 
+#include <sys/types.h>
+#include <unistd.h>
+
 namespace kyototycoon {                  // common namespace
 
 
